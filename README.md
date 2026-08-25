@@ -1,4 +1,5 @@
 ## Hi there 👋
+I’m currently working on spatial-temporal analyses, data analyses, and genomic analyses techniques (IGEP, EXGEP, GBS, SNP, Bionformatics, GWAS) 
 
 <!--
 **Beast-94/Beast-94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
